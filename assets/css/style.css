@@ -4,8 +4,8 @@
 /* Definições gerais */
 :root {
     --bgcolor: #1C1C1C;
-    --btn: #035eae;
-    --accent-color: #013766;
+    --btn: #b53c67;
+    --accent-color: #F7EAEF;
     --white: #fff;
     --gray: #aaa;
 }
@@ -95,7 +95,7 @@ footer {
     z-index: 1000;
     width: 60px;
     height: 60px;
-    background-color: var(--accent-color);
+    background-color: var(--btn);
     border-radius: 50%;
     display: flex;
     align-items: center;
